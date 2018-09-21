@@ -1,0 +1,5 @@
+C:\Users\STUDENT\Desktop\101632129\DodGyWebAPI\DodGyDatabase\bin\Debug\DodGyDatabase.dacpac
+C:\Users\STUDENT\Desktop\101632129\DodGyWebAPI\DodGyDatabase\bin\Debug\DodGyDatabase.dll
+C:\Users\STUDENT\Desktop\101632129\DodGyWebAPI\DodGyDatabase\bin\Debug\DodGyDatabase.pdb
+C:\Users\STUDENT\Desktop\101632129\DodGyWebAPI\DodGyDatabase\obj\Debug\DodGyDatabase.dll
+C:\Users\STUDENT\Desktop\101632129\DodGyWebAPI\DodGyDatabase\obj\Debug\DodGyDatabase.pdb
